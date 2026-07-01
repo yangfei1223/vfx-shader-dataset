@@ -1,0 +1,24 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Rising Fire Embers",
+  "visual_description": "无数发光的橙色火花在黑色背景中向上飘散，呈现出燃烧余烬的视觉效果。底部伴有模糊的深红色烟雾或热气，增加了画面的层次感。粒子具有明显的运动模糊和景深效果。",
+  "dominant_colors": [
+    "Orange",
+    "Black"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "N/A",
+  "key_elements": [
+    "Sparks",
+    "Smoke",
+    "Glow"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "sparks-from-fire",
+  "video_file": "sparks-from-fire.webm"
+}

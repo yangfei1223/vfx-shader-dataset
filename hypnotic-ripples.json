@@ -1,0 +1,23 @@
+{
+  "effect_category": "ripple",
+  "effect_name": "Radial Gradient Ripple",
+  "visual_description": "图像呈现出从中心向外扩散的同心圆环效果，色彩平滑过渡。颜色由中心的淡蓝白色向四周渐变为深青色及右侧的紫红色。整体视觉效果柔和，带有模糊的光晕感。",
+  "dominant_colors": [
+    "Cyan",
+    "Magenta"
+  ],
+  "has_animation": true,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Concentric rings",
+    "Radial gradient"
+  ],
+  "shape_type": "circle",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "hypnotic-ripples",
+  "video_file": "hypnotic-ripples.webm"
+}

@@ -1,0 +1,24 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Glowing Curved Light Streaks",
+  "visual_description": "几条明亮的橙金色曲线在深色背景上平行排列并向右侧汇聚。线条边缘柔和，带有强烈的光晕和辉光效果，营造出能量流动或激光束的感觉。",
+  "dominant_colors": [
+    "Orange",
+    "Black"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Glowing lines",
+    "Light convergence",
+    "Dark background"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "waves-remix",
+  "video_file": "waves-remix.webm"
+}

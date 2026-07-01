@@ -1,0 +1,24 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Neon Geometric Glow",
+  "visual_description": "三个发光的几何形状（类心形、圆形、星形）悬浮在深色渐变背景上，分别呈现青色、粉紫色和金黄色。每个形状周围都有强烈的柔和光晕，营造出霓虹灯般的视觉效果，光线向四周扩散。",
+  "dominant_colors": [
+    "Cyan Blue",
+    "Yellow Orange"
+  ],
+  "has_animation": true,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "N/A",
+  "key_elements": [
+    "Glowing Rounded Shape",
+    "Glowing Circle",
+    "Glowing Star"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "solid",
+  "animation_type": "pulse",
+  "sample_name": "buffer-bloom",
+  "video_file": "buffer-bloom.webm"
+}

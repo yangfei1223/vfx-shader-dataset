@@ -1,0 +1,24 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Connected Particle Helix",
+  "visual_description": "黑色背景下，一系列白色至灰色的圆点通过细线连接，呈现出DNA双螺旋般的波浪形态。圆点的大小和亮度随透视变化，营造出深邃的三维空间感。整体视觉效果简洁、抽象且充满科技韵律。",
+  "dominant_colors": [
+    "Black",
+    "White"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Spheres",
+    "Connecting Lines",
+    "Helix Structure"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "solid",
+  "animation_type": "rotate",
+  "sample_name": "dna-helis",
+  "video_file": "dna-helis.webm"
+}

@@ -1,0 +1,23 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Floating Space Particles",
+  "visual_description": "深色渐变背景上散布着许多白色微粒，模拟星空或尘埃的效果。微粒大小不一，部分呈现拉长的椭圆状，暗示了运动模糊或景深。背景从左上角的深褐色过渡到右下角的深紫色。",
+  "dominant_colors": [
+    "Dark Purple",
+    "White"
+  ],
+  "has_animation": true,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "White dots",
+    "Dark gradient background"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "star-tunnel",
+  "video_file": "star-tunnel.webm"
+}

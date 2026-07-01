@@ -1,0 +1,23 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Neon Purple Energy Ring",
+  "visual_description": "一个明亮的粉紫色发光圆环悬浮在黑色背景上，周围环绕着深蓝色的烟雾状光晕，呈现出神秘的能量场视觉效果。圆环边缘清晰但带有柔和的辉光，内部则是深邃的黑暗。",
+  "dominant_colors": [
+    "Purple",
+    "Dark Blue"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Glowing Ring",
+    "Ethereal Smoke"
+  ],
+  "shape_type": "circle",
+  "fill_type": "hollow",
+  "animation_type": "pulse",
+  "sample_name": "glow-shader-test2",
+  "video_file": "glow-shader-test2.webm"
+}

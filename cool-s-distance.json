@@ -1,0 +1,24 @@
+{
+  "effect_category": "warp",
+  "effect_name": "Geometric S Warp Pattern",
+  "visual_description": "图像中心是一个由多层蓝色同心线条构成的立体字母'S'，边缘带有白色轮廓。背景由密集的橙色波浪线条组成，这些线条围绕中心图形产生明显的扭曲和视错觉效果。整体呈现出一种迷幻且规律的几何美感。",
+  "dominant_colors": [
+    "Orange",
+    "Blue"
+  ],
+  "has_animation": false,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Letter S",
+    "Concentric Lines",
+    "Warped Background"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "mixed",
+  "animation_type": "none",
+  "sample_name": "cool-s-distance",
+  "video_file": "cool-s-distance.webm"
+}

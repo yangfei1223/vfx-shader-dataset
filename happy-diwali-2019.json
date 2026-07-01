@@ -1,0 +1,25 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Glowing Colorful Particle Burst",
+  "visual_description": "深色渐变背景上漂浮着许多发光的小光点，呈现出宇宙尘埃或魔法粒子的质感。左侧有一个密集的蓝色发光球体，右侧和上方散布着粉色、黄色和绿色的稀疏粒子，仿佛正在扩散或爆炸。",
+  "dominant_colors": [
+    "Cyan Blue",
+    "Magenta Pink",
+    "Yellow Green"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Blue particle cluster",
+    "Scattered colorful dots",
+    "Dark background"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "happy-diwali-2019",
+  "video_file": "happy-diwali-2019.webm"
+}

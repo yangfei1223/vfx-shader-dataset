@@ -1,0 +1,23 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Glowing Orb Ring",
+  "visual_description": "图像中心展示了一个强烈的橙黄色发光核心，周围环绕着深红色的光晕。核心外围排列着一圈明亮的白色光点，每个光点都带有柔和的模糊边缘。整体置于纯黑背景上，营造出一种能量球或科幻光源的视觉效果。",
+  "dominant_colors": [
+    "Orange",
+    "White"
+  ],
+  "has_animation": true,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Central glowing core",
+    "Ring of light particles"
+  ],
+  "shape_type": "circle",
+  "fill_type": "solid",
+  "animation_type": "pulse",
+  "sample_name": "multicolored-2d-metaball",
+  "video_file": "multicolored-2d-metaball.webm"
+}

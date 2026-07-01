@@ -1,0 +1,23 @@
+{
+  "effect_category": "shape",
+  "effect_name": "Gradient Red Heart Icon",
+  "visual_description": "图片中心展示了一个红色的心形图案，表面带有从左至右的柔和光影渐变，呈现出立体感。背景是温暖的米色到浅棕色的径向渐变，四周略带暗角效果，营造出温馨柔和的氛围。",
+  "dominant_colors": [
+    "Red",
+    "Beige"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Heart Shape",
+    "Gradient Fill"
+  ],
+  "shape_type": "heart",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "heart-2d",
+  "video_file": "heart-2d.webm"
+}

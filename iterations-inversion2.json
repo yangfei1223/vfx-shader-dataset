@@ -1,0 +1,23 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Swirling Fluid Texture",
+  "visual_description": "图像展示了深红褐色与奶油色交织的流体状漩涡，线条平滑且富有光泽。整体呈现出类似液态金属、融化的巧克力或浓稠油漆的质感，充满了有机的流动形态。",
+  "dominant_colors": [
+    "Copper/Reddish-Brown",
+    "Cream/Off-White"
+  ],
+  "has_animation": false,
+  "complexity": "complex",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Fluid swirls",
+    "Glossy gradients"
+  ],
+  "shape_type": "organic",
+  "fill_type": "mixed",
+  "animation_type": "none",
+  "sample_name": "iterations-inversion2",
+  "video_file": "iterations-inversion2.webm"
+}

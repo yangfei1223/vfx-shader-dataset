@@ -1,0 +1,24 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Glowing Abstract Wave Lines",
+  "visual_description": "图像展示了多条明亮的青色发光曲线在深色背景上水平流动并交织。线条具有柔和的光晕，营造出科技感和能量流动的视觉效果。背景呈现深蓝至黑色的平滑渐变。",
+  "dominant_colors": [
+    "Cyan",
+    "Dark Blue"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": null,
+  "key_elements": [
+    "Glowing lines",
+    "Wave pattern",
+    "Dark gradient background"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "plasma-waves",
+  "video_file": "plasma-waves.webm"
+}

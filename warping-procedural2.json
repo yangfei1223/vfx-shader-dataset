@@ -1,0 +1,24 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Abstract Fluid Marble Flow",
+  "visual_description": "图像展示了棕色、深绿色和米白色交织的抽象液体纹理，色彩像大理石纹路一样平滑过渡和扭曲。整体呈现出一种粘稠流体缓慢流动或融化的视觉效果，充满了有机的曲线。",
+  "dominant_colors": [
+    "Brown",
+    "Sage Green"
+  ],
+  "has_animation": false,
+  "complexity": "complex",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Swirling patterns",
+    "Color blending",
+    "Organic curves"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "warping-procedural2",
+  "video_file": "warping-procedural2.webm"
+}

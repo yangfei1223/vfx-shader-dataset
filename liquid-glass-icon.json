@@ -1,0 +1,24 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Soft Edge Glow Button",
+  "visual_description": "这是一个位于灰色渐变背景上的圆形图标，边缘带有明显的白色发光效果，营造出一种柔和的亮度。中心有一个白色的叉号，外围有一圈淡淡的阴影，使圆形看起来具有轻微的悬浮感或立体感。",
+  "dominant_colors": [
+    "Gray",
+    "White"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Circular Shape",
+    "White Glow",
+    "Cross Symbol"
+  ],
+  "shape_type": "circle",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "liquid-glass-icon",
+  "video_file": "liquid-glass-icon.webm"
+}

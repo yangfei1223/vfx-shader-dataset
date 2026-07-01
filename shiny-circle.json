@@ -1,0 +1,23 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Purple Blue Neon Ring",
+  "visual_description": "一个明亮的紫蓝色霓虹圆环位于纯黑背景中央。圆环边缘模糊，向外扩散出柔和且强烈的光晕，营造出能量场或激光环的视觉效果。整体呈现出典型的赛博朋克或科幻风格的发光质感。",
+  "dominant_colors": [
+    "Purple",
+    "Blue"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Neon Ring",
+    "Light Glow"
+  ],
+  "shape_type": "circle",
+  "fill_type": "hollow",
+  "animation_type": "none",
+  "sample_name": "shiny-circle",
+  "video_file": "shiny-circle.webm"
+}

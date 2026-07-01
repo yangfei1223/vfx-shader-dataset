@@ -1,0 +1,24 @@
+{
+  "effect_category": "space",
+  "effect_name": "Northern Lights Aurora Sky",
+  "visual_description": "深蓝色的夜空背景下，绿色的极光如帘幕般垂下，边缘柔和且带有强烈的发光效果。画面下方是平静的水面，清晰地倒映着上方的极光和繁星，整体营造出神秘静谧的氛围。",
+  "dominant_colors": [
+    "深蓝色",
+    "翠绿色"
+  ],
+  "has_animation": true,
+  "complexity": "complex",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "极光光带",
+    "星空粒子",
+    "水面倒影"
+  ],
+  "shape_type": "organic",
+  "fill_type": "mixed",
+  "animation_type": "flow",
+  "sample_name": "auroras",
+  "video_file": "auroras.webm"
+}

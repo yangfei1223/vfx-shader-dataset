@@ -1,0 +1,23 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Glossy Molten Liquid Rings",
+  "visual_description": "图像展示了几个具有高度光泽和反射质感的深红棕色液态圆环，仿佛熔融的金属或浓稠的巧克力在深色背景上流动。表面有明显的高光反射，呈现出粘稠、平滑的有机形态。",
+  "dominant_colors": [
+    "Dark Brown",
+    "Copper"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Liquid Rings",
+    "Glossy Reflections"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "water-dropplet",
+  "video_file": "water-dropplet.webm"
+}

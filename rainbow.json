@@ -1,0 +1,24 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Abstract Blue Liquid Gradient",
+  "visual_description": "左侧呈现大面积深蓝色到紫色的柔和有机形状，边缘模糊如流动的液体或烟雾。右侧边缘有一道明亮的青蓝色光弧，仿佛发光球体的一部分，具有强烈的光泽感。背景为纯黑色，形成了高对比度的深邃空间。",
+  "dominant_colors": [
+    "Deep Blue",
+    "Black"
+  ],
+  "has_animation": true,
+  "complexity": "simple",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Blue organic shape",
+    "Cyan edge highlight",
+    "Black negative space"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "rainbow",
+  "video_file": "rainbow.webm"
+}

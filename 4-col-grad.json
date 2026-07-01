@@ -1,0 +1,23 @@
+{
+  "effect_category": "gradient",
+  "effect_name": "Smooth Multi-color Gradient Background",
+  "visual_description": "这是一个全屏的抽象多色渐变背景，色彩鲜艳且过渡柔和。画面融合了绿色、黄色、红色和蓝色，在中心区域形成自然的色彩混合。图像呈现静态，没有明显的动态元素或特定几何形状。",
+  "dominant_colors": [
+    "Green",
+    "Red"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Color blending",
+    "Smooth transition"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "4-col-grad",
+  "video_file": "4-col-grad.webm"
+}

@@ -1,0 +1,24 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Rising Fire And Smoke",
+  "visual_description": "底部燃烧着明亮的橙红色火焰，向上逐渐过渡为深灰色的烟雾。黑色背景中散布着许多向上飘浮的细小橙色火星，营造出强烈的燃烧氛围。",
+  "dominant_colors": [
+    "Orange",
+    "Black"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Fire",
+    "Smoke",
+    "Embers"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "sparks-drifting",
+  "video_file": "sparks-drifting.webm"
+}

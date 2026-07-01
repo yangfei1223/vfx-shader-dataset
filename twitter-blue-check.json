@@ -1,0 +1,23 @@
+{
+  "effect_category": "shape",
+  "effect_name": "Flat Blue Badge Icon",
+  "visual_description": "图像展示了一个蓝色的云朵状或花瓣状图形，中心包含一个白色的对勾符号。背景为纯白色，整体呈现简洁的扁平化设计风格。",
+  "dominant_colors": [
+    "蓝色",
+    "白色"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "蓝色波浪形背景",
+    "白色对勾"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "twitter-blue-check",
+  "video_file": "twitter-blue-check.webm"
+}

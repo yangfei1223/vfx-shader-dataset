@@ -1,0 +1,24 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Sunset Water Reflection",
+  "visual_description": "画面展示了一个明亮的圆形光源（如太阳）悬挂在橙红色的天空中，散发出强烈的辉光。下方是平静但有细腻波纹的水面，反射出光源形成一条耀眼的光柱，整体色调温暖且具有高对比度。",
+  "dominant_colors": [
+    "Orange",
+    "White"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Glowing Sun",
+    "Rippling Water",
+    "Light Reflection"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "mixed",
+  "animation_type": "flow",
+  "sample_name": "flat-water-effects2",
+  "video_file": "flat-water-effects2.webm"
+}

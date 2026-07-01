@@ -1,0 +1,24 @@
+{
+  "effect_category": "warp",
+  "effect_name": "Optical Illusion Crescent Warp",
+  "visual_description": "图像中心是一个蓝色的新月形，内部填充着密集的蓝色线条。背景是橙色的同心波纹线条，在新月边缘处发生明显的扭曲和位移，产生强烈的视错觉深度感。整体色彩对比鲜明，利用线条的连续性创造出流动的视觉假象。",
+  "dominant_colors": [
+    "Orange",
+    "Blue"
+  ],
+  "has_animation": false,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Crescent Shape",
+    "Concentric Lines",
+    "Optical Illusion"
+  ],
+  "shape_type": "organic",
+  "fill_type": "mixed",
+  "animation_type": "none",
+  "sample_name": "moon-distance-2d",
+  "video_file": "moon-distance-2d.webm"
+}

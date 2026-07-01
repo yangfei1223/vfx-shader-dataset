@@ -1,0 +1,23 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Neon Blue Glowing Frame",
+  "visual_description": "黑色背景上有一个明亮的蓝色圆角矩形边框。边框发出强烈的霓虹光芒，周围有柔和的蓝色光晕向外扩散。整体呈现出简洁的科技感或赛博朋克风格。",
+  "dominant_colors": [
+    "Electric Blue",
+    "Black"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Neon Border",
+    "Glow Effect"
+  ],
+  "shape_type": "rect",
+  "fill_type": "hollow",
+  "animation_type": "none",
+  "sample_name": "shiny-rectancle",
+  "video_file": "shiny-rectancle.webm"
+}

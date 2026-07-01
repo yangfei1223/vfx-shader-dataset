@@ -1,0 +1,23 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Fluid Gradient Flow",
+  "visual_description": "图像展示了明亮的青色与深红色的有机混合，呈现出类似液体或烟雾的流动形态。颜色之间平滑过渡，在交汇处形成深邃的蓝色调，整体具有柔和的光泽和深度感。背景完全被这种流动的纹理填充，没有明显的几何边界。",
+  "dominant_colors": [
+    "Cyan",
+    "Deep Red"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Fluid shapes",
+    "Color blending"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "water-color-blending",
+  "video_file": "water-color-blending.webm"
+}

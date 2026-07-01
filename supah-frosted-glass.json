@@ -1,0 +1,23 @@
+{
+  "effect_category": "gradient",
+  "effect_name": "Soft Gradient Orbs",
+  "visual_description": "图像展示了两个重叠的圆形，上方圆形呈现从青色到深紫色的平滑渐变。下方圆形颜色较淡且带有明显的模糊和半透明效果，营造出一种柔和、空灵的视觉质感，背景为纯净的浅灰色。",
+  "dominant_colors": [
+    "Purple",
+    "Cyan"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Gradient Circle",
+    "Blurred Overlay"
+  ],
+  "shape_type": "circle",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "supah-frosted-glass",
+  "video_file": "supah-frosted-glass.webm"
+}

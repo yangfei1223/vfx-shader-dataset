@@ -1,0 +1,23 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Soft Radial Glow",
+  "visual_description": "中心呈现明亮的暖白色光源，向外扩散出柔和的橙色光晕。背景由中心的亮色平滑过渡到边缘的深棕色，形成强烈的径向渐变效果，整体氛围温暖而朦胧。",
+  "dominant_colors": [
+    "Orange",
+    "Dark Brown"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Central Light Source",
+    "Radial Gradient"
+  ],
+  "shape_type": "circle",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "glow-tutorial",
+  "video_file": "glow-tutorial.webm"
+}

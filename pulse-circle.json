@@ -1,0 +1,23 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Glowing Neon Circle Ring",
+  "visual_description": "黑色背景中央有一个明亮的黄绿色发光核心，向外散发柔和的光晕。外围环绕着一个巨大的发光绿色圆环，与中心形成同心圆结构。整体呈现出一种科幻能量场或雷达界面的视觉风格。",
+  "dominant_colors": [
+    "Neon Green",
+    "Black"
+  ],
+  "has_animation": true,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Central Light Core",
+    "Outer Neon Ring"
+  ],
+  "shape_type": "circle",
+  "fill_type": "mixed",
+  "animation_type": "pulse",
+  "sample_name": "pulse-circle",
+  "video_file": "pulse-circle.webm"
+}

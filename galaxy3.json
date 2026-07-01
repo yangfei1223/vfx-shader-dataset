@@ -1,0 +1,24 @@
+{
+  "effect_category": "space",
+  "effect_name": "Spiral Galaxy Vortex",
+  "visual_description": "图像展示了一个巨大的螺旋星系或能量漩涡，中心发出强烈的粉白色光芒。周围环绕着深蓝色的旋臂，由细腻的颗粒状纹理和光尘组成，营造出深邃且旋转的宇宙空间感。",
+  "dominant_colors": [
+    "Deep Blue",
+    "Bright White/Pink"
+  ],
+  "has_animation": true,
+  "complexity": "complex",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Glowing Core",
+    "Spiral Arms",
+    "Particle Texture"
+  ],
+  "shape_type": "organic",
+  "fill_type": "mixed",
+  "animation_type": "rotate",
+  "sample_name": "galaxy3",
+  "video_file": "galaxy3.webm"
+}

@@ -1,0 +1,23 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Neon Aurora Wave Flow",
+  "visual_description": "图像展示了多条横向流动的彩色光带，呈现出类似极光或烟雾的有机波浪形态。颜色从左至右由青色过渡到橙色，下方则是大面积的紫红色，背景为深蓝色。光带边缘柔和发光，具有强烈的流动感。",
+  "dominant_colors": [
+    "Magenta",
+    "Orange"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Wavy light bands",
+    "Color gradients"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "color-ripples",
+  "video_file": "color-ripples.webm"
+}

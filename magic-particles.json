@@ -1,0 +1,24 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Glowing Energy Beam Burst",
+  "visual_description": "黑色背景下，左侧有橙黄色放射状火花爆发，向右延伸为光带，末端是明亮的蓝色星芒。色彩从暖色渐变到冷色，具有强烈的发光和能量流动感。",
+  "dominant_colors": [
+    "Orange",
+    "Blue"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Sparks",
+    "Light Streak",
+    "Starburst"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "mixed",
+  "animation_type": "flow",
+  "sample_name": "magic-particles",
+  "video_file": "magic-particles.webm"
+}

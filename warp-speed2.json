@@ -1,0 +1,24 @@
+{
+  "effect_category": "space",
+  "effect_name": "Radial Cosmic Light Burst",
+  "visual_description": "中心发出耀眼的白光，向四周放射出柔和的蓝紫色光束。背景布满细碎的蓝色粒子，营造出一种高速穿越或能量爆发的视觉冲击。",
+  "dominant_colors": [
+    "Sky Blue",
+    "White"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Central Bright Light",
+    "Radial Rays",
+    "Particle Field"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "mixed",
+  "animation_type": "flow",
+  "sample_name": "warp-speed2",
+  "video_file": "warp-speed2.webm"
+}

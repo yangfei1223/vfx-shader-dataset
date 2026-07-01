@@ -1,0 +1,23 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Swirling Blue Fluid Texture",
+  "visual_description": "图像展示了充满画面的抽象漩涡纹理，类似于流动的蓝色烟雾或液体。颜色从深靛蓝过渡到明亮的淡紫色和白色，形成柔和的云雾状外观，具有强烈的流动感。",
+  "dominant_colors": [
+    "Blue",
+    "White"
+  ],
+  "has_animation": false,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Swirls",
+    "Soft Gradients"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "vortex-street",
+  "video_file": "vortex-street.webm"
+}

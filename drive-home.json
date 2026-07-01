@@ -1,0 +1,23 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Rainy Window Bokeh",
+  "visual_description": "图像展示了雨夜透过玻璃窗看到的景象，前景是清晰的水滴，背景是模糊的彩色光斑。主要颜色为深黑色背景，点缀着黄色、白色和红色的圆形散景光。水滴在光斑上形成了折射和高光，增加了真实感。",
+  "dominant_colors": [
+    "Black",
+    "Yellow"
+  ],
+  "has_animation": false,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": null,
+  "key_elements": [
+    "Raindrops",
+    "Bokeh lights"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "mixed",
+  "animation_type": "none",
+  "sample_name": "drive-home",
+  "video_file": "drive-home.webm"
+}

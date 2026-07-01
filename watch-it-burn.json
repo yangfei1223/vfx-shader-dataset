@@ -1,0 +1,24 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Realistic Fire Burn",
+  "visual_description": "黑色背景上呈现出向上升腾的火焰效果，色彩由底部的亮黄白色渐变为顶部的橙红色。整体形态呈现出不规则的有机流动感，边缘模糊柔和，模拟了真实燃烧的气体形态。",
+  "dominant_colors": [
+    "Orange",
+    "Yellow"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Flames",
+    "Glow",
+    "Heat Haze"
+  ],
+  "shape_type": "organic",
+  "fill_type": "mixed",
+  "animation_type": "flow",
+  "sample_name": "watch-it-burn",
+  "video_file": "watch-it-burn.webm"
+}

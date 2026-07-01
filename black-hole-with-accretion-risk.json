@@ -1,0 +1,25 @@
+{
+  "effect_category": "space",
+  "effect_name": "Black Hole Gravitational Lensing",
+  "visual_description": "图像展示了一个巨大的黑洞，中心是纯黑的球体事件视界，周围环绕着明亮的金橙色吸积盘。由于强烈的引力透镜效应，吸积盘的光线在黑洞上方和下方发生显著弯曲，形成独特的光环结构。背景是深邃的黑色太空，点缀着被拉伸的星光轨迹，暗示着高速旋转或极端的时空扭曲。",
+  "dominant_colors": [
+    "Black",
+    "Golden Orange"
+  ],
+  "has_animation": true,
+  "complexity": "complex",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Event Horizon",
+    "Accretion Disk",
+    "Gravitational Lensing",
+    "Warped Starlight"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "mixed",
+  "animation_type": "rotate",
+  "sample_name": "black-hole-with-accretion-risk",
+  "video_file": "black-hole-with-accretion-risk.webm"
+}

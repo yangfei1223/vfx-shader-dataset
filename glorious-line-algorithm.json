@@ -1,0 +1,25 @@
+{
+  "effect_category": "shape",
+  "effect_name": "Minimalist Geometric Robot",
+  "visual_description": "图像展示了一个由黑色几何形状组成的抽象机器人面孔，绘制在白色方格纸背景上。主要特征包括顶部的虚线、三个正方形眼睛、圆角矩形嘴巴以及底部的实心圆环，两侧有类似手臂的斜线。",
+  "dominant_colors": [
+    "Black",
+    "White"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Black circle",
+    "Rounded rectangle",
+    "Squares",
+    "Grid background"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "mixed",
+  "animation_type": "none",
+  "sample_name": "glorious-line-algorithm",
+  "video_file": "glorious-line-algorithm.webm"
+}

@@ -1,0 +1,24 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Glassy Transparent Water Drops",
+  "visual_description": "图像展示了两个具有玻璃质感的透明液滴，置于灰色网格背景之上。较大的液滴呈不规则有机形状，较小的呈完美圆形，两者均带有细腻的高光和内部折射细节，模拟了真实的水或玻璃材质。",
+  "dominant_colors": [
+    "Grey",
+    "White"
+  ],
+  "has_animation": false,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Liquid droplets",
+    "Grid background",
+    "Specular highlights"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "liquid-galss-test",
+  "video_file": "liquid-galss-test.webm"
+}

@@ -1,0 +1,26 @@
+{
+  "effect_category": "shape",
+  "effect_name": "Colorful Gear Pattern",
+  "visual_description": "图像底部排列着多行彩色的齿轮状图形，颜色包括绿色、黄色、红色和蓝色。背景是纯白色的圆角矩形，整体风格扁平简洁。",
+  "dominant_colors": [
+    "Green",
+    "Blue",
+    "Red",
+    "Yellow"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Gear shapes",
+    "Colorful arrangement",
+    "White background"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "2d-physics-balls",
+  "video_file": "2d-physics-balls.webm"
+}

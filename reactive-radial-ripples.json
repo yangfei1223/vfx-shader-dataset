@@ -1,0 +1,23 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Scattered Blue Dot Pattern",
+  "visual_description": "黑色背景上布满了深浅不一的蓝色圆点，呈现出波点纹理。左侧有一个醒目的淡黄色圆点，作为视觉中心打破了规律。整体风格简洁、扁平且具有几何感。",
+  "dominant_colors": [
+    "Blue",
+    "Black"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Blue dots",
+    "Yellow dot"
+  ],
+  "shape_type": "circle",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "reactive-radial-ripples",
+  "video_file": "reactive-radial-ripples.webm"
+}

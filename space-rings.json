@@ -1,0 +1,24 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Glowing Particle Ring System",
+  "visual_description": "黑色背景上，外围有一圈由明亮的青绿色发光圆点组成的大圆环。中心有一个由密集微小光点构成的倾斜椭圆结构，整体呈现出科技感的能量场或原子模型效果。",
+  "dominant_colors": [
+    "Cyan",
+    "Green"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Outer glowing dots",
+    "Inner spiral cluster",
+    "Dark background"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "hollow",
+  "animation_type": "rotate",
+  "sample_name": "space-rings",
+  "video_file": "space-rings.webm"
+}

@@ -1,0 +1,24 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Vertical Glowing Energy Beams",
+  "visual_description": "垂直排列的发光线条，中心有一束极亮的白光，周围环绕着红色和橙黄色的光柱。背景为深红色到黑色的渐变，营造出强烈的能量感或科幻激光氛围。",
+  "dominant_colors": [
+    "Red",
+    "Orange"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Vertical light beams",
+    "Intense central glow",
+    "Dark gradient background"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "solid",
+  "animation_type": "pulse",
+  "sample_name": "particles4",
+  "video_file": "particles4.webm"
+}

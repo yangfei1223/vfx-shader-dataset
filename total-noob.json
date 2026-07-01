@@ -1,0 +1,24 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Rainbow Radiant Ring Glow",
+  "visual_description": "一个彩虹色的发光圆环位于黑色背景中央，边缘呈现出红、绿、蓝等颜色的平滑渐变。圆环周围伴随着向外辐射的彩色光束，营造出强烈的能量感和空间深度，类似霓虹灯或能量护盾的效果。",
+  "dominant_colors": [
+    "Black",
+    "Multicolor"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Glowing Ring",
+    "Radial Light Rays",
+    "Color Gradient"
+  ],
+  "shape_type": "circle",
+  "fill_type": "hollow",
+  "animation_type": "flow",
+  "sample_name": "total-noob",
+  "video_file": "total-noob.webm"
+}

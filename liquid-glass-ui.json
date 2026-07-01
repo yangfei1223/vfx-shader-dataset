@@ -1,0 +1,24 @@
+{
+  "effect_category": "special",
+  "effect_name": "Glassmorphism Pause Button",
+  "visual_description": "一个半透明的磨砂玻璃质感圆形暂停按钮位于画面左侧，边缘有柔和的高光。背景呈现出蓝色的烟雾或流体纹理，并向右侧自然过渡到纯黑色。整体视觉效果具有深邃的空间感和现代科技风格。",
+  "dominant_colors": [
+    "Cyan",
+    "Black"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Pause Icon",
+    "Glass Sphere",
+    "Blue Smoke"
+  ],
+  "shape_type": "circle",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "liquid-glass-ui",
+  "video_file": "liquid-glass-ui.webm"
+}

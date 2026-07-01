@@ -1,0 +1,23 @@
+{
+  "effect_category": "glow",
+  "effect_name": "Red Energy Streak Glow",
+  "visual_description": "左侧有一个高亮度的红色发光团块，向右延伸出一条由离散光点组成的逐渐消散的尾迹。背景为纯黑色，突出了红色光效的辉光和动态模糊感，仿佛高速移动的能量束。",
+  "dominant_colors": [
+    "Red",
+    "Black"
+  ],
+  "has_animation": true,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Glowing Head",
+    "Particle Trail"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "flow",
+  "sample_name": "strobe-light-trail",
+  "video_file": "strobe-light-trail.webm"
+}

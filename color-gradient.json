@@ -1,0 +1,23 @@
+{
+  "effect_category": "gradient",
+  "effect_name": "Smooth Rainbow Mesh Gradient",
+  "visual_description": "这是一个柔和且模糊的多色网格渐变背景，色彩从左上角的红色过渡到中间的黄色和绿色，最后到底部的蓝色。整体视觉效果平滑、抽象，没有明显的边界或纹理，呈现出一种梦幻般的氛围。",
+  "dominant_colors": [
+    "Yellow",
+    "Blue"
+  ],
+  "has_animation": false,
+  "complexity": "simple",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Color blending",
+    "Soft blur"
+  ],
+  "shape_type": "abstract",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "color-gradient",
+  "video_file": "color-gradient.webm"
+}

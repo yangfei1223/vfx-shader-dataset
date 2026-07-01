@@ -1,0 +1,24 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Blue Electric Plasma Sphere",
+  "visual_description": "这是一个由发光的蓝色和青色丝状物组成的能量球体，悬浮在纯黑背景中。中心呈现深蓝色，向外辐射出明亮的电流状纹理和微小粒子，呈现出强烈的能量流动感。",
+  "dominant_colors": [
+    "Electric Blue",
+    "Cyan"
+  ],
+  "has_animation": true,
+  "complexity": "complex",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Glowing filaments",
+    "Particle dust",
+    "Energy core"
+  ],
+  "shape_type": "organic",
+  "fill_type": "mixed",
+  "animation_type": "flow",
+  "sample_name": "electron",
+  "video_file": "electron.webm"
+}

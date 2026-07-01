@@ -1,0 +1,24 @@
+{
+  "effect_category": "particle",
+  "effect_name": "Pixelated Motion Trail",
+  "visual_description": "经典的Windows四色旗帜标志位于深青色背景上，呈现出向右高速移动的视觉效果。标志左侧分解为一系列逐渐变小、离散的平行四边形像素块，营造出数字溶解或速度拖尾的感觉。",
+  "dominant_colors": [
+    "Teal",
+    "Black"
+  ],
+  "has_animation": false,
+  "complexity": "medium",
+  "is_2d": true,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Windows Logo",
+    "Pixel Blocks",
+    "Motion Trail"
+  ],
+  "shape_type": "mixed",
+  "fill_type": "solid",
+  "animation_type": "none",
+  "sample_name": "windows-95",
+  "video_file": "windows-95.webm"
+}

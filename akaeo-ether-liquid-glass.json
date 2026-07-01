@@ -1,0 +1,24 @@
+{
+  "effect_category": "liquid",
+  "effect_name": "Glowing Organic Blob",
+  "visual_description": "一个深蓝色的不规则有机形状，类似液滴或凝胶，悬浮在深色背景中。边缘环绕着明亮的粉紫色光晕，表面有柔和的高光反射，呈现出光滑湿润的3D质感。",
+  "dominant_colors": [
+    "Deep Blue",
+    "Neon Pink"
+  ],
+  "has_animation": true,
+  "complexity": "medium",
+  "is_2d": false,
+  "is_in_scope": true,
+  "scope_reason": "",
+  "key_elements": [
+    "Organic Shape",
+    "Neon Rim Light",
+    "Glossy Surface"
+  ],
+  "shape_type": "organic",
+  "fill_type": "solid",
+  "animation_type": "morph",
+  "sample_name": "akaeo-ether-liquid-glass",
+  "video_file": "akaeo-ether-liquid-glass.webm"
+}
