@@ -143,18 +143,19 @@
 ## 目录结构
 
 ```
-test-samples/
+vfx-shader-dataset/
 ├── README.md                          # 本文件
-├── 4-col-grad.json                    # 元数据
-├── 4-col-grad.webm                    # 设计参考视频
-├── heart-2d.json
-├── heart-2d.webm
-├── ...
-├── shiny-circle.json
-└── shiny-circle.webm
+└── data/                              # 数据目录（50 个样本）
+    ├── 4-col-grad.json                # 元数据
+    ├── 4-col-grad.webm                # 设计参考视频
+    ├── heart-2d.json
+    ├── heart-2d.webm
+    ├── ...
+    ├── shiny-circle.json
+    └── shiny-circle.webm
 ```
 
-每个样本由同名的一对 `.json` + `.webm` 文件组成，共 100 个文件。
+每个样本由 `data/` 下同名的一对 `.json` + `.webm` 文件组成，共 100 个数据文件。
 
 ---
 
@@ -210,7 +211,7 @@ test-samples/
 import json
 from pathlib import Path
 
-samples = [json.load(open(f)) for f in Path(".").glob("*.json")]
+samples = [json.load(open(f)) for f in Path("data").glob("*.json")]
 glow_samples = [s for s in samples if s["effect_category"] == "glow"]
 ```
 
